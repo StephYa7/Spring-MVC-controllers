@@ -1,4 +1,4 @@
-package st.springcourse.Config;
+package st.springcourse.configs;
 
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;

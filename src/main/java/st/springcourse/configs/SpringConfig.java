@@ -1,4 +1,4 @@
-package st.springcourse.Config;
+package st.springcourse.configs;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationContext;
